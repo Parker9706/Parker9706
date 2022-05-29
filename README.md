@@ -13,9 +13,11 @@
 ## **👷🏼‍♂️ Currently Working On:**
 
 [Kanji Telegram](https://github.com/Parker9706/kanji-telegram)
+
 An open-source web application for studying Japanese
 
 ## **🚀 Recently Launched:**
+
 [gimbap.io](gimbap.io)
 
 An [endpoint monitoring tool](https://medium.com/@gimbap_io/gimbap-real-time-microservice-clustering-recommendations-decbe2040c88) for real-time microservice clustering recommendations
