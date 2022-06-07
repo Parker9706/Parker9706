@@ -18,7 +18,7 @@ An open-source web application for studying Japanese
 
 ## **🚀 Recently Launched:**
 
-[gimbap.io](gimbap.io)
+[gimbap.io](https://www.gimbap.io)
 
 An [endpoint monitoring tool](https://medium.com/@gimbap_io/gimbap-real-time-microservice-clustering-recommendations-decbe2040c88) for real-time microservice clustering recommendations
 
